@@ -9,7 +9,8 @@ Código oriundo de exercicio. Basicamente o código precisa estar em um diretór
 
 NOTA fasta_translator.py:
 
-Este código tem como propósito servir de exemplo para projetos futuros. O código basicamente é um tradutor de arquivos multifasta, ele pega um arquivo contendo várias cabeçalhos e sequencia de nucleotideos, faz a distinção entre eles e traduz as sequencias para aminoácidos e devolve a saída para um arquivo. Para melhorar a eficácia do programa é recomendado que seja executado em um diretório  a parte contendo o programa e o arquivo multifasta, o programa começa pedindo para o usuário digitar o nome completo do arquivo multifasta e em seguida pedirá para dar um nome para o arquivo em que será posto as sequencias traduzidas, após isso, o processo de tradução acontecerá e o resultado vai estar gravado no arquivo que voce deu o nome. Embora curto, esse código será de extrema importancia no desenvilmento de ferramentas futuras
+Este código tem como propósito servir de exemplo para projetos futuros. O código basicamente é um tradutor de arquivos multifasta, ele pega um arquivo contendo várias cabeçalhos e sequencia de nucleotideos, faz a distinção entre eles e traduz as sequencias para aminoácidos e devolve a saída para um arquivo. Para melhorar a eficácia do programa é recomendado que seja executado em um diretório  a parte contendo o programa e o arquivo multifasta, o programa começa pedindo para o usuário digitar o nome completo do arquivo multifasta e em seguida pedirá para dar um nome para o arquivo em que será posto as sequencias traduzidas, após isso, o processo de tradução acontecerá e o resultado vai estar gravado no arquivo que voce deu o nome. Embora curto, esse código será de extrema importancia no desenvilmento de ferramentas futuras.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 (ENGB)
 
