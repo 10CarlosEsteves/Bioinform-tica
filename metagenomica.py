@@ -2,6 +2,9 @@ import os
 from pysradb.search import SraSearch
 from pysradb.sraweb import SRAweb
 
+os.system("export PATH=$PATH:$HOME/.local/bin")
+os.system("export PATH=$PATH:$PWD/sratoolkit.3.0.0-ubuntu64/bin")
+
 def default(argumento):
 
     if argumento=="" or argumento=="None":
